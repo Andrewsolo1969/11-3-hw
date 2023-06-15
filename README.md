@@ -8,7 +8,7 @@
 
 - Elasticsearch установлен и запущен:
 
-![elasticsearch_node_name](https://github.com/Andrewsolo1969/11-3-hw/blob/main/img/elasticsearch_node_name.png)
+![elasticsearch_started](https://github.com/Andrewsolo1969/11-3-hw/blob/main/img/elasticsearch_started.png)
 
 Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name.
 
@@ -16,7 +16,7 @@
 
 nano /etc/elasticsearch/elasticsearch.yml
 
-![elasticsearch_1](https://github.com/Andrewsolo1969/11-3-hw/blob/main/img/elasticsearch_1.png)
+![elasticsearch_node_name](https://github.com/Andrewsolo1969/11-3-hw/blob/main/img/elasticsearch_node_name.png)
 
 Результат команды curl -X GET 'localhost:9200/_cluster/health?pretty
 
