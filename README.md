@@ -48,6 +48,10 @@ nano /etc/elasticsearch/elasticsearch.yml
 
 ![Logstash_started](https://github.com/Andrewsolo1969/11-3-hw/blob/main/img/Logstash_started.png)
 
+- Nginx установлен и запущен:
+
+![nginx_started](https://github.com/Andrewsolo1969/11-3-hw/blob/main/img/nginx_started.png)
+
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.
 
 
